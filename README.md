@@ -13,7 +13,7 @@ Access the presentation file here:
 <a href="https://explore.skillbuilder.aws/lms/"> AWS Skill Builder </a> |
 <a href="https://cognitiveclass.ai/"> IBM Cognitive Class </a> |
 <a href="https://skillsforall.com/"> Cisco Skills For All </a> |
-<a href="https://skillsbuild.org/"> IBM Skill Build </a> |
+<a href="https://skillsbuild.org/"> IBM Skill Build </a> 
 </h2>
 
 
