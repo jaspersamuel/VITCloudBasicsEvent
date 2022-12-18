@@ -8,10 +8,10 @@ Access the presentation file here:
 
 #LearningResources
 
-<h2>
-<a href="https://www.awseducate.com/student/s/"> AWS Educate </a> \n
+
+<a href="https://www.awseducate.com/student/s/"> AWS Educate </a> 
 <a href="https://explore.skillbuilder.aws/lms/"> AWS Skill Builder </a>
-</h2>
+
 
 
 
