@@ -10,6 +10,7 @@ Access the presentation file here:
 
 <h2>
 <a href="https://www.awseducate.com/student/s/"> AWS Educate </a>
+  <a href="https://explore.skillbuilder.aws/lms/"> AWS Skill Builder </a>
 </h2>
 
 
