@@ -6,7 +6,7 @@ Access the presentation file here:
 
 <a href=""> Cloud Computing in AWS </a>
 
-#LearningResources
+# Learning Resources
 
 <h2>
 <a href="https://www.awseducate.com/student/s/"> AWS Educate </a> |
