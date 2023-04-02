@@ -4,7 +4,7 @@ Hello all
 
 Access the presentation file here:
 
-<a href=""> Cloud Computing in AWS </a>
+<a href="https://docs.google.com/presentation/d/1nceVc3HqaftQIB20Syzm5NOo33ru8e6q/edit?usp=sharing&ouid=111576708324349979233&rtpof=true&sd=true"> Cloud Computing in AWS </a>
 
 # Learning Resources
 
